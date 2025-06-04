@@ -23,7 +23,7 @@ I'm a passionate **Software Developer** and a **forever learner**, always excite
 🔭 Currently working as a **Software Development Intern** at **KocharTech** , where I build real-time dashboards and backend services that solve practical business problems.
 
 💡 I love **problem-solving** and creating solutions for **real-world challenges**.  
-🧠 Solved **300+ LeetCode problems** with a **1500+ rating**, continuously improving my data structures and algorithms skills.
+🧠 Solved **300+ LeetCode problems** , continuously improving my data structures and algorithms skills.
 
 ---
 
