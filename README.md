@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I'm a passionate **Software Developer** and a **forever learner**, always excited to explore new technologies and experiment with ideas.
 
-🔭 Currently working as a **Software Development Intern** at **KocharTech** for the past 9 months, where I build real-time dashboards and backend services that solve practical business problems.
+🔭 Currently working as a **Software Development Intern** at **KocharTech** , where I build real-time dashboards and backend services that solve practical business problems.
 
 💡 I love **problem-solving** and creating solutions for **real-world challenges**.  
 🧠 Solved **300+ LeetCode problems** with a **1500+ rating**, continuously improving my data structures and algorithms skills.
