@@ -49,7 +49,7 @@ I'm a passionate **Software Developer** and a **forever learner**, always excite
 ### 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tamanna-singh1002/)  
-- 📬 Email: tamanna.singh@gmail.com
+- 📬 Email: tamanna.singh1002@gmail.com
 
 ---
 
