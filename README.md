@@ -1,15 +1,20 @@
 <div align="center">
-  
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Welcome%20to%20Tamanna's%20GitHub&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=35&desc=%3C/%3E&descSize=20&descAlignY=60)
+
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Welcome%20to%20Tamanna%27s%20GitHub&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=40)
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamanna-singh1002)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/tamanna-singh02)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tamanna-singh02)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamanna.singh1002@gmail.com)
+<a href="https://linkedin.com/in/tamanna-singh1002" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="30" height="30" alt="LinkedIn" style="filter: invert(1);"/></a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/tamanna-singh02" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/leetcode.svg" width="30" height="30" alt="LeetCode" style="filter: invert(1);"/></a>
+&nbsp;&nbsp;
+<a href="https://github.com/tamanna-singh02" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" width="30" height="30" alt="GitHub" style="filter: invert(1);"/></a>
+&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/user/tamanna-singh02" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/geeksforgeeks.svg" width="30" height="30" alt="GeeksforGeeks" style="filter: invert(1);"/></a>
+&nbsp;&nbsp;
+<a href="mailto:tamanna.singh1002@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg" width="30" height="30" alt="Email" style="filter: invert(1);"/></a>
 
 </div>
 
@@ -25,11 +30,15 @@ Hello There! I'm **Tamanna Singh**, a Software Developer focused on backend engi
 
 <br>
 
-- 🎓 **Software Developer** building AI systems
-- 💼 Specializing in **Backend Engineering + LLM Pipelines**
-- 🧠 **300+ problems** solved on LeetCode
-- 📚 **CGPA: 9.0**
-- ⚡ Currently exploring **multi-agent architectures** and **RAG at scale**
+<div align="center">
+
+🎓 &nbsp; **Software Developer** building AI systems <br>
+💼 &nbsp; Specializing in **Backend + LLM Pipelines** <br>
+🧠 &nbsp; **300+ problems** solved on LeetCode <br>
+📚 &nbsp; **CGPA: 9.0** <br>
+⚡ &nbsp; Exploring **multi-agent architectures** & **RAG**
+
+</div>
 
 </td>
 <td width="40%" align="center">
@@ -46,28 +55,35 @@ Hello There! I'm **Tamanna Singh**, a Software Developer focused on backend engi
 
 <div align="center">
 
-### Backend
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### AI / LLM
-![LangGraph](https://img.shields.io/badge/LANGGRAPH-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/GEMINI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Pinecone](https://img.shields.io/badge/PINECONE-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Database & Infra
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/PRISMA-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS"/><br><sub><b>NestJS</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/><br><sub><b>Node.js</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/><br><sub><b>TypeScript</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br><sub><b>JS</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" style="background:white; border-radius:6px; padding:2px;"/><br><sub><b>Express</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br><sub><b>Python</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br><sub><b>C++</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/><br><sub><b>React</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" style="background:white; border-radius:6px; padding:2px;"/><br><sub><b>Next.js</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind"/><br><sub><b>Tailwind</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/><br><sub><b>Postgres</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/><br><sub><b>Redis</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma" style="background:white; border-radius:6px; padding:2px;"/><br><sub><b>Prisma</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br><sub><b>Docker</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br><sub><b>Git</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" style="background:white; border-radius:50%; padding:2px;"/><br><sub><b>GitHub</b></sub></td>
+<td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="40" height="40" alt="OpenAI" style="background:white; border-radius:6px; padding:4px;"/><br><sub><b>OpenAI</b></sub></td>
+<td align="center" width="96"><img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="40" height="40" alt="Gemini"/><br><sub><b>Gemini</b></sub></td>
+<td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40" alt="LangChain" style="border-radius:6px;"/><br><sub><b>LangGraph</b></sub></td>
+<td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="40" height="40" alt="Pinecone" style="border-radius:6px;"/><br><sub><b>Pinecone</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/><br><sub><b>MongoDB</b></sub></td>
+</tr>
+</table>
 
 </div>
 
@@ -80,6 +96,7 @@ Hello There! I'm **Tamanna Singh**, a Software Developer focused on backend engi
 <td width="50%" valign="top">
 
 ### 🌿 [RepoSage](https://github.com/tamanna-singh02/reposage)
+
 Chat with any GitHub codebase — hybrid search, Gemini embeddings, multi-turn memory.
 
 `NestJS` `Pinecone` `Gemini` `Next.js`
@@ -88,7 +105,8 @@ Chat with any GitHub codebase — hybrid search, Gemini embeddings, multi-turn m
 <td width="50%" valign="top">
 
 ### 🤖 [Code Reviewer](https://github.com/tamanna-singh02/multi-agent-reviewer)
-LangGraph agents for security, perf & style — inline PR comments on every push.
+
+LangGraph agents for security, perf and style — inline PR comments on every push.
 
 `LangGraph` `OpenAI` `GitHub API` `PostgreSQL`
 
@@ -98,6 +116,7 @@ LangGraph agents for security, perf & style — inline PR comments on every push
 <td width="50%" valign="top">
 
 ### 📄 [Doc-Gen](https://github.com/tamanna-singh02)
+
 Triggers on MR events, extracts changes via LLM — saves ~5h/week per engineer.
 
 `NestJS` `OpenAI` `GitLab API`
@@ -106,6 +125,7 @@ Triggers on MR events, extracts changes via LLM — saves ~5h/week per engineer.
 <td width="50%" valign="top">
 
 ### ✨ More on the way
+
 Always building. Check out my pinned repos for the latest work.
 
 `Backend` `AI Systems` `In Progress`
@@ -124,14 +144,10 @@ Always building. Check out my pinned repos for the latest work.
 <tr>
 <td>
 
-#### Tamanna's GitHub Stats
-
 <img src="https://github-readme-stats.vercel.app/api?username=tamanna-singh02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
 
 </td>
 <td>
-
-#### Current Streak
 
 <img src="https://streak-stats.demolab.com/?user=tamanna-singh02&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 
@@ -141,13 +157,13 @@ Always building. Check out my pinned repos for the latest work.
 
 <br>
 
-#### Tamanna's Contribution Graph
+**Tamanna's Contribution Graph**
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tamanna-singh02&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true)](https://github.com/tamanna-singh02)
 
 <br>
 
-#### Most Used Languages
+**Most Used Languages**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamanna-singh02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 
